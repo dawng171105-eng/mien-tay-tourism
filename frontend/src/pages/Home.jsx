@@ -142,10 +142,10 @@ export default function Home() {
     <div>
       <section className="relative overflow-hidden bg-gradient-to-br from-river-800 via-river-700 to-river-900 text-white">
         <div
-          className="absolute inset-0 opacity-20"
+          className="absolute inset-0 opacity-30"
           style={{
             backgroundImage:
-              "url(https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=1600)",
+              "url(https://images.unsplash.com/photo-1528127269322-539801943592?w=1600)",
             backgroundSize: "cover",
             backgroundPosition: "center",
           }}
