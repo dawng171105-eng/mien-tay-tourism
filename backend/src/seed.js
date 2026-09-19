@@ -55,7 +55,7 @@ async function seed() {
       province: "Cần Thơ",
       category: "dia-danh",
       coverImage:
-        "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       author: admin._id,
     },
     {
@@ -65,7 +65,7 @@ async function seed() {
       province: "Cà Mau",
       category: "am-thuc",
       coverImage:
-        "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       author: admin._id,
     },
     {
@@ -75,7 +75,7 @@ async function seed() {
       province: "An Giang",
       category: "le-hoi",
       coverImage:
-        "https://images.unsplash.com/photo-1528164344705-475426870197?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       author: admin._id,
     },
     {
@@ -85,7 +85,7 @@ async function seed() {
       province: "Tiền Giang",
       category: "dia-danh",
       coverImage:
-        "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       author: admin._id,
     },
     {
@@ -95,7 +95,7 @@ async function seed() {
       province: "Sóc Trăng",
       category: "am-thuc",
       coverImage:
-        "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       author: admin._id,
     },
   ];
@@ -154,8 +154,8 @@ Ngày 3:
     availableSlots: 20,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1441974231530-c3447bc09b95?w=800",
-      "https://images.unsplash.com/photo-1528164344705-475426870197?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 5),
@@ -190,7 +190,7 @@ Ngày 2:
     availableSlots: 25,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1528164344705-475426870197?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 7),
@@ -211,7 +211,7 @@ Ngày 2:
     availableSlots: 30,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1441974231530-c3447bc09b95?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 10),
@@ -232,7 +232,7 @@ Ngày 2:
     availableSlots: 35,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1528164344705-475426870197?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 12),
@@ -284,8 +284,8 @@ Ngày 3:
     availableSlots: 20,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?w=800",
-      "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 8),
@@ -319,7 +319,7 @@ Ngày 2:
     availableSlots: 25,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 12),
@@ -339,7 +339,7 @@ Ngày 2:
     availableSlots: 30,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 14),
@@ -359,7 +359,7 @@ Ngày 2:
     availableSlots: 35,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 16),
@@ -415,8 +415,8 @@ Ngày 3:
     availableSlots: 25,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 6),
@@ -452,7 +452,7 @@ Ngày 2:
     availableSlots: 30,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 10),
@@ -472,7 +472,7 @@ Ngày 2:
     availableSlots: 40,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 13),
@@ -493,7 +493,7 @@ Ngày 2:
     availableSlots: 35,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 15),
@@ -548,8 +548,8 @@ Ngày 3:
     availableSlots: 25,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=800",
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 4),
@@ -584,7 +584,7 @@ Ngày 2:
     maxSlots: 30,
     availableSlots: 30,
     featured: true,
-    images: ["https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=800"],
+    images: ["https://images.unsplash.com/photo-1528127269322-539801943592?w=800"],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 7),
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 21),
@@ -602,7 +602,7 @@ Ngày 2:
     maxSlots: 30,
     availableSlots: 30,
     featured: false,
-    images: ["https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=800"],
+    images: ["https://images.unsplash.com/photo-1528127269322-539801943592?w=800"],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 10),
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 24),
@@ -622,7 +622,7 @@ Ngày 2:
     availableSlots: 15,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 6),
@@ -682,8 +682,8 @@ Ngày 4:
     availableSlots: 15,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1441974231530-c3447bc09b95?w=800",
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 10),
@@ -723,7 +723,7 @@ Ngày 3:
     availableSlots: 18,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1441974231530-c3447bc09b95?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 15),
@@ -755,7 +755,7 @@ Ngày 2:
     availableSlots: 22,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1441974231530-c3447bc09b95?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 17),
@@ -776,7 +776,7 @@ Ngày 2:
     availableSlots: 28,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 20),
@@ -828,8 +828,8 @@ Ngày 3:
     availableSlots: 25,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
-      "https://images.unsplash.com/photo-1528164344705-475426870197?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 7),
@@ -864,7 +864,7 @@ Ngày 2:
     availableSlots: 30,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 9),
@@ -884,7 +884,7 @@ Ngày 2:
     availableSlots: 35,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 13),
@@ -927,7 +927,7 @@ Ngày 3:
     availableSlots: 20,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1441974231530-c3447bc09b95?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 11),
@@ -968,8 +968,8 @@ Ngày 2:
     availableSlots: 30,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 10),
@@ -989,7 +989,7 @@ Ngày 2:
     availableSlots: 35,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 16),
@@ -1021,7 +1021,7 @@ Ngày 2:
     availableSlots: 28,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 12),
@@ -1041,7 +1041,7 @@ Ngày 2:
     availableSlots: 32,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 18),
@@ -1101,8 +1101,8 @@ Ngày 4:
     availableSlots: 15,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
-      "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 12),
@@ -1142,7 +1142,7 @@ Ngày 3:
     availableSlots: 18,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 20),
@@ -1177,7 +1177,7 @@ Ngày 2:
     availableSlots: 20,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 18),
@@ -1197,7 +1197,7 @@ Ngày 2:
     availableSlots: 25,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 22),
@@ -1237,8 +1237,8 @@ Ngày 2:
     availableSlots: 28,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
-      "https://images.unsplash.com/photo-1441974231530-c3447bc09b95?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 11),
@@ -1258,7 +1258,7 @@ Ngày 2:
     availableSlots: 32,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 14),
@@ -1291,7 +1291,7 @@ Ngày 2:
     availableSlots: 30,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 16),
@@ -1335,7 +1335,7 @@ Ngày 3:
     availableSlots: 15,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 13),
@@ -1385,8 +1385,8 @@ Ngày 3:
     availableSlots: 25,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1528164344705-475426870197?w=800",
-      "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 8),
@@ -1420,7 +1420,7 @@ Ngày 2:
     availableSlots: 28,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1528164344705-475426870197?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 12),
@@ -1440,7 +1440,7 @@ Ngày 2:
     availableSlots: 32,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1528164344705-475426870197?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 15),
@@ -1472,7 +1472,7 @@ Ngày 2:
     availableSlots: 26,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 14),
@@ -1525,8 +1525,8 @@ Ngày 3:
     availableSlots: 30,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
-      "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 6),
@@ -1561,7 +1561,7 @@ Ngày 2:
     availableSlots: 35,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 10),
@@ -1581,7 +1581,7 @@ Ngày 2:
     availableSlots: 35,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 13),
@@ -1613,7 +1613,7 @@ Ngày 2:
     availableSlots: 30,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 14),
@@ -1657,8 +1657,8 @@ Ngày 2:
     availableSlots: 30,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1528164344705-475426870197?w=800",
-      "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 13),
@@ -1678,7 +1678,7 @@ Ngày 2:
     availableSlots: 35,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1528164344705-475426870197?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 16),
@@ -1710,7 +1710,7 @@ Ngày 2:
     availableSlots: 28,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 18),
@@ -1753,7 +1753,7 @@ Ngày 3:
     availableSlots: 15,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1528164344705-475426870197?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 15),
@@ -1803,8 +1803,8 @@ Ngày 3:
     availableSlots: 28,
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=800",
-      "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 9),
@@ -1837,7 +1837,7 @@ Ngày 2:
     maxSlots: 30,
     availableSlots: 30,
     featured: true,
-    images: ["https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=800"],
+    images: ["https://images.unsplash.com/photo-1528127269322-539801943592?w=800"],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 12),
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 26),
@@ -1855,7 +1855,7 @@ Ngày 2:
     maxSlots: 30,
     availableSlots: 30,
     featured: false,
-    images: ["https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=800"],
+    images: ["https://images.unsplash.com/photo-1528127269322-539801943592?w=800"],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 14),
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 28),
@@ -1886,7 +1886,7 @@ Ngày 2:
     availableSlots: 32,
     featured: false,
     images: [
-      "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
     ],
     departures: [
       new Date(now.getFullYear(), now.getMonth(), now.getDate() + 16),
@@ -1917,7 +1917,7 @@ Ngày 2:
       pricePerNight: 800000,
       starRating: 4,
       images: [
-        "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Bể bơi", "Nhà hàng", "Gym", "Xe đưa đón"],
       featured: true,
@@ -1931,7 +1931,7 @@ Ngày 2:
       pricePerNight: 350000,
       starRating: 2,
       images: [
-        "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Nhà hàng", "Đưa đón sân bay"],
       featured: false,
@@ -1946,7 +1946,7 @@ Ngày 2:
       pricePerNight: 700000,
       starRating: 3,
       images: [
-        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Nhà hàng", "Xe đưa đón"],
       featured: true,
@@ -1959,7 +1959,7 @@ Ngày 2:
       pricePerNight: 1200000,
       starRating: 4,
       images: [
-        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Bể bơi", "Nhà hàng", "Spa"],
       featured: true,
@@ -1974,7 +1974,7 @@ Ngày 2:
       pricePerNight: 900000,
       starRating: 4,
       images: [
-        "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Bể bơi", "Nhà hàng", "Đi xuồng"],
       featured: true,
@@ -1988,7 +1988,7 @@ Ngày 2:
       pricePerNight: 400000,
       starRating: 2,
       images: [
-        "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Ăn sáng"],
       featured: false,
@@ -2003,7 +2003,7 @@ Ngày 2:
       pricePerNight: 650000,
       starRating: 3,
       images: [
-        "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Nhà hàng", "Xe đưa đón"],
       featured: false,
@@ -2016,7 +2016,7 @@ Ngày 2:
       pricePerNight: 850000,
       starRating: 3,
       images: [
-        "https://images.unsplash.com/photo-1441974231530-c3447bc09b95?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Nhà hàng", "Tham quan rừng"],
       featured: true,
@@ -2031,7 +2031,7 @@ Ngày 2:
       pricePerNight: 1500000,
       starRating: 5,
       images: [
-        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Bể bơi", "Nhà hàng", "Spa", "Gym"],
       featured: true,
@@ -2044,7 +2044,7 @@ Ngày 2:
       pricePerNight: 750000,
       starRating: 3,
       images: [
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Nhà hàng", "Xe đưa đón"],
       featured: true,
@@ -2059,7 +2059,7 @@ Ngày 2:
       pricePerNight: 700000,
       starRating: 3,
       images: [
-        "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Nhà hàng", "Bể bơi"],
       featured: true,
@@ -2072,7 +2072,7 @@ Ngày 2:
       pricePerNight: 950000,
       starRating: 4,
       images: [
-        "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Bể bơi", "Nhà hàng", "Tham quan sinh thái"],
       featured: true,
@@ -2087,7 +2087,7 @@ Ngày 2:
       pricePerNight: 600000,
       starRating: 3,
       images: [
-        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Nhà hàng"],
       featured: false,
@@ -2102,7 +2102,7 @@ Ngày 2:
       pricePerNight: 2500000,
       starRating: 5,
       images: [
-        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Bể bơi", "Nhà hàng", "Spa", "Gym", "Casino"],
       featured: true,
@@ -2115,7 +2115,7 @@ Ngày 2:
       pricePerNight: 1200000,
       starRating: 4,
       images: [
-        "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Bể bơi", "Nhà hàng"],
       featured: true,
@@ -2128,7 +2128,7 @@ Ngày 2:
       pricePerNight: 900000,
       starRating: 3,
       images: [
-        "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Nhà hàng", "Bãi biển riêng"],
       featured: true,
@@ -2143,7 +2143,7 @@ Ngày 2:
       pricePerNight: 550000,
       starRating: 3,
       images: [
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Nhà hàng"],
       featured: false,
@@ -2158,7 +2158,7 @@ Ngày 2:
       pricePerNight: 600000,
       starRating: 3,
       images: [
-        "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Nhà hàng"],
       featured: false,
@@ -2171,7 +2171,7 @@ Ngày 2:
       pricePerNight: 800000,
       starRating: 4,
       images: [
-        "https://images.unsplash.com/photo-1528164344705-475426870197?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Nhà hàng", "Spa"],
       featured: true,
@@ -2186,7 +2186,7 @@ Ngày 2:
       pricePerNight: 700000,
       starRating: 3,
       images: [
-        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Nhà hàng", "Bể bơi"],
       featured: true,
@@ -2199,7 +2199,7 @@ Ngày 2:
       pricePerNight: 1100000,
       starRating: 4,
       images: [
-        "https://images.unsplash.com/photo-1464226184883-fa280b87c399?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Bể bơi", "Nhà hàng", "Đi xuồng"],
       featured: true,
@@ -2214,7 +2214,7 @@ Ngày 2:
       pricePerNight: 550000,
       starRating: 3,
       images: [
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Nhà hàng"],
       featured: false,
@@ -2229,7 +2229,7 @@ Ngày 2:
       pricePerNight: 750000,
       starRating: 4,
       images: [
-        "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Nhà hàng", "Bể bơi"],
       featured: true,
@@ -2242,7 +2242,7 @@ Ngày 2:
       pricePerNight: 950000,
       starRating: 4,
       images: [
-        "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=800",
+        "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       ],
       amenities: ["Wifi", "Bể bơi", "Nhà hàng", "Đi thuyền"],
       featured: true,
