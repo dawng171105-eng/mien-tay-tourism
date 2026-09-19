@@ -145,7 +145,7 @@ export default function Home() {
           className="absolute inset-0 opacity-30"
           style={{
             backgroundImage:
-              "url(https://images.unsplash.com/photo-1528127269322-539801943592?w=1600)",
+              "url(/images/hero-bg.jpg)",
             backgroundSize: "cover",
             backgroundPosition: "center",
           }}

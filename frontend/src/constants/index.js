@@ -47,7 +47,7 @@ export const CATEGORIES = [
 ];
 
 export const SHARED_IMAGES = {
-  tour: 'https://images.unsplash.com/photo-1528127269322-539801943592?w=800',
+  tour: '/images/tour-bg.jpg.png',
   hotel: '/images/shared/hotel-shared.svg',
   guide: '/images/shared/guide-shared.svg',
 };
